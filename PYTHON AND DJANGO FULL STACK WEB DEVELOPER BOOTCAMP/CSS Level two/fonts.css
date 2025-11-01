@@ -1,0 +1,27 @@
+body {
+    font-size: 2px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, ;
+    font-size: 36px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#two {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}

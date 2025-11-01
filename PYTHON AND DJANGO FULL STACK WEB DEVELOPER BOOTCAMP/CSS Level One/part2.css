@@ -1,0 +1,48 @@
+body {
+    /* background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+}
+
+.div1 {
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.div1 p {
+    font-size: 22px;
+    color: rgb(7, 7, 180);
+    text-align: justify;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(232, 149, 53);
+}
+
+.div2 {
+    background-color: lightblue;
+    border: 1px solid navy;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.div2 p {
+    font-size: 20px;
+    color: #e4142c;
+    text-align: left;
+}
+
+span {
+    background: red;
+    font-weight: bold;
+    color: black;
+    font-size: 2rem;
+}

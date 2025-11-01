@@ -1,0 +1,25 @@
+/* this css file is part1.css */
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+    font-family: arial;
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+ol {
+    font-family: courier;
+    font-size: 18px;
+    color: red;
+}
+
+li {
+    margin: 10px;
+    color: rgb(0, 0, 255);
+}

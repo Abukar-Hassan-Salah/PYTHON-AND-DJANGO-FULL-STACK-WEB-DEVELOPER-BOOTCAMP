@@ -1,0 +1,40 @@
+td {
+    background-color: black;
+    width: 150px;
+    height: 300px;
+}
+
+h1 {
+    color: rgb(195, 54, 54);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.art {
+    margin: auto;
+}
+
+#one {
+    background-color: #e76f51;
+}
+
+#two {
+    background-color: #f4a261;
+}
+
+#three {
+    background-color: #2a9d8f;
+}
+
+#four {
+    background-color: #e9c46a;
+}
+
+#five {
+    background-color: #264653;
+}
+
+
+/* colors
+e76f51,f4a261,2a9d8f,2a9d8f,264653
+ */
